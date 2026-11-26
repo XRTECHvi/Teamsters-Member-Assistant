@@ -1,3 +1,7 @@
+# V9.1 — Union information shortcut
+
+Adds a full-width Union information button directly after the home Quick actions grid, above the backup reminder. It opens the existing Local 166 Resources screen in English or Spanish; the existing More menu link is retained. No vault or data format changes. For an existing V9 deployment, replace `app.js`, `index.html`, `premium.js`, `premium.css`, `sw.js`, and optionally `README.md`, or upload the complete package. Back up the private vault first and retain the same member app URL.
+
 # V3 — Centered logo update
 
 The original uploaded KP Teamsters artwork is displayed prominently above the title on every screen, independent of the vault. All V2 workflows and vault storage are unchanged. Replace the files in the existing member repository; include the new `kp-logo-v3.jpg`. If the old header persists, reload the published site after GitHub Pages deploys. Back up your vault before any browser troubleshooting; do not clear site data.
