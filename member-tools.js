@@ -342,3 +342,20 @@ Save my steward’s contact|Guardar contacto de mi delegado
 Edit contact|Editar contacto
 No match. Call the main office to identify your representative.|Sin resultados. Llama a la oficina principal para identificar a tu representante.
 `);
+
+pairs(`
+Delete AI Download|Eliminar descarga de IA
+Release model frees working memory. Delete AI Download removes cached model files to free storage. Redownload anytime. Your private vault is not deleted.|Liberar modelo libera memoria de trabajo. Eliminar descarga de IA borra los archivos del modelo para liberar almacenamiento. Puedes descargarlo de nuevo. Tu bóveda privada no se elimina.
+Checking downloaded AI files…|Comprobando archivos de IA descargados…
+Cached AI files found. You can remove them below.|Se encontraron archivos de IA guardados. Puedes eliminarlos aquí.
+No matching downloaded AI files found.|No se encontraron archivos de IA descargados.
+Cached model status unavailable.|Estado de descarga no disponible.
+Delete both downloaded AI models from this browser? Your private vault, grievances, recordings, calendar and contract will be kept. Other apps on the same website may share these model files. Close other AI tabs first. You can download again anytime.|¿Eliminar los dos modelos de IA descargados de este navegador? Se conservarán tu bóveda, quejas, grabaciones, calendario y contrato. Otras aplicaciones del mismo sitio pueden compartir estos archivos. Cierra otras pestañas de IA primero. Puedes descargarlos de nuevo cuando quieras.
+Removing AI download…|Eliminando descarga de IA…
+AI download removed. Load local AI to download it again.|Descarga de IA eliminada. Carga la IA local para descargarla de nuevo.
+No matching AI download found. You can load AI anytime.|No se encontró una descarga de IA. Puedes cargar la IA en cualquier momento.
+Model removal could not be verified. Try again.|No se pudo verificar la eliminación. Inténtalo de nuevo.
+Model released. Download kept.|Modelo liberado. Descarga conservada.
+Model cache management is unavailable in this browser.|La gestión de descargas de IA no está disponible en este navegador.
+Some model files remain. Close other AI tabs and try again.|Quedan archivos del modelo. Cierra otras pestañas de IA e inténtalo de nuevo.
+`);
